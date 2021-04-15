@@ -1,5 +1,5 @@
 # Requirements
-## Introduction
+## Introduction.
  --- TBD 
 
 ## Research
