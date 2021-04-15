@@ -10,8 +10,9 @@ This project report includes four sections, introduction, background, system des
  
 
 ## Cost and Features
-![Description](Link to Pic)
--- Content 
+This was a costless application and we have features like 1.Add candidate 2.Find the vote count 
+3. Find leading candidate
+
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
