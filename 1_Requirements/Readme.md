@@ -25,18 +25,23 @@ This was a costless application and we have features like 1.Add candidate 2.Find
 4W’s and 1’H
 
 Who:
+
 An employee who is working in an election commission can enter/update his details of the candidates.
 
 What:
+
 An update add, delete, and view the Candidate details.
 
 When:
+
 This application as introduced in many years ago.
 
 Where:
+
 We can use in any operating system.
 
 How:
+
 This application can useful for informing the details for election commission.
 
 
