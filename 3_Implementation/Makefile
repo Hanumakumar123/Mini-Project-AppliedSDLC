@@ -1,11 +1,11 @@
 # Name of the project
-PROJECT_NAME = Calculator
+PROJECT_NAME = Election voteing
 
 # Output directory
 BUILD = build
 
 # All source code files
-SRC = project_main.c\
+SRC = Election.c\
 src/calculator_operations.c
 
 # All test source files
