@@ -57,5 +57,11 @@ ID    |           Description                | Status (Implemented/Future)
  
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+ID    |            Description             | Status(Implemented/Future)
+------|------------------------------------|---------------------------
+LR01  | User can add deatils of candidate  | Implemented
+LR02  | user can count all votes           | Implemented
+LR03  |user can check the leading positions| Implemented
+LR04  | Candidate can see his/her details  | Implemented
+LR05  | User can't see details of voters   | Implemented
+LR06  | We can keep the deatils privacy    | Future
