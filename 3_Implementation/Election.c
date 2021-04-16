@@ -83,6 +83,7 @@ int main()
     {
 
         printf("\n\n ###### Welcome to Election/Voting 2019 #####");
+        printf("\n\n 1.Choose the Candidate");
         printf("\n\n 2. Cast the Vote");
         printf("\n 3. Find Vote Count");
         printf("\n 4. Find leading Candidate");
