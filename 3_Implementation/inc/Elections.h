@@ -1,7 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 #define CANDIDATE_COUNT
 
-
-void castevote()
-void votesCount()
-void getLeadingCandidate()
+void castevote(); void votesCount(); void getLeadingCandidate();
