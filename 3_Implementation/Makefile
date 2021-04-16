@@ -6,10 +6,10 @@ BUILD = build
 
 # All source code files
 SRC = Election.c\
-src/calculator_operations.c
+src/Elections.c
 
 # All test source files
-TEST_SRC = src/calculator_operations.c\
+TEST_SRC = src/Elections.c\
 test/test_calculator_operations.c\
 unity/unity.c\
 
