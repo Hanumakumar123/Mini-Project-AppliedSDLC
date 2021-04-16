@@ -50,12 +50,11 @@ This application can useful for informing the details for election commission.
 ## High Level Requirements:
 ID    |           Description                | Status (Implemented/Future)
  -----|--------------------------------------|----------------------------
- HR01 | User can add deatils of candidate    | Implemented
- HR02 | user can count all votes             | Implemented
- HR03 | Data storing                         | Implemented
- HR04 | user can check the leading positions | Implemented
- HR05 | Candidate can see his/her details    | Implemented
- HR06 | user details can't details of voters | Future
+ HR01 |  Main menu                           | Implemented
+ HR02 |  Data storing                        | Implemented
+ HR03 |  Data Retrival                       | Implemented
+ HR04 |  Graphical user interface            | Future
+ 
 
 ##  Low level Requirements:
 --- TBD in Tabular Format 
