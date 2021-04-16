@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = Election voteing
+PROJECT_NAME = Election_voteing
 
 # Output directory
 BUILD = build
