@@ -1,7 +1,7 @@
 # Name of the project
 PROJECT_NAME = Election voteing
 
-# Output directory
+
 
 
 # All source code files
@@ -25,7 +25,7 @@ INC	= -Iinc\
 INCLUDE_LIBS =
 
 # Project Output name
-PROJECT_OUTPUT = /$(PROJECT_NAME).out
+PROJECT_OUTPUT = $(PROJECT_NAME).out
 
 # Document files
 DOCUMENTATION_OUTPUT = documentation/html
@@ -48,17 +48,16 @@ run:$(PROJECT_NAME)
 #	make -C ./documentation
 
 # Build and run the unit tests
-test:
-	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
+test:$(BUILD)gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
 	./$(TEST_OUTPUT)
 #Coverage
-coverageCheck:$(BUILD)
+coverageCheck:
 	g++ -fprofile-arcs -ftest-coverage -fPIC -O0 $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
 	./$(TEST_OUTPUT)
 
 # Remove all the built files, invoke by `make clean`
 clean:
-	rm -rf $(DOCUMENTATION_OUTPUT)
+	rm -rf $(PROJECT_OUTPUT)$(TEST_OUTPUT)$(DOCUMENTAION_OUTPUT)
 
 # Create new build folder if not present
 
