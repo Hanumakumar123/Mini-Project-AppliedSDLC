@@ -12,19 +12,7 @@ Folder             | Description
 
 PS No.   |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 ---------|---------|----------------|----------------|---------------|-------------|--------------
-`280950` | Grandhi Tirupathi Naga Hanuma Kumar  | Entire Project (Requirements, Design, Implementation and TestPlanAndOutput)	   | 0     | 0 |X No   |X No     
+`280950` | Grandhi Tirupathi Naga Hanuma Kumar  | Entire Project (Requirements, Design, Implementation and TestPlanAndOutput)	   | 0     | 0 |1  |1     
     
 
-## Challenges Faced and How Was It Overcome
-
-1. ABC
-2. BCD
-3. ...
-4. ...
-
-## Learning Resources
-1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
-3. [git inspector](https://github.com/ejwa/gitinspector.git)
-4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
