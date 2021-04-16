@@ -19,7 +19,7 @@ This was a costless application and we have features like 1.Add candidate 2.Find
    This application can store the all votes. It can store the all the candidate details, such as their names and their party symbols. It can store all voter id’s also.
 
 ## SWOT ANALYSIS
-    ![swot](https://user-images.githubusercontent.com/62949244/114980621-5a353f00-9eaa-11eb-843c-1510aa25d608.png)
+   ![swot](https://user-images.githubusercontent.com/62949244/114981223-45a57680-9eab-11eb-9fe6-8fd775d3a21a.png)
 
 
 4W’s and 1’H
