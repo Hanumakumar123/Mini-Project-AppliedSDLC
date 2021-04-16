@@ -10,7 +10,7 @@ src/Elections.c
 
 # All test source files
 TEST_SRC = src/Elections.c\
-test/test_calculator_operations.c\
+test/test_Elections.c\
 unity/unity.c\
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
