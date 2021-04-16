@@ -65,3 +65,4 @@ LR03  |user can check the leading positions| Implemented
 LR04  | Candidate can see his/her details  | Implemented
 LR05  | User can't see details of voters   | Implemented
 LR06  | We can keep the deatils privacy    | Future
+LR07  | reading data by seareching the their name or by their Mobile number oe with address |Implemented
