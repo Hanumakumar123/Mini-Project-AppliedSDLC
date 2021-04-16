@@ -48,14 +48,14 @@ This application can useful for informing the details for election commission.
 
 # Detail requirements
 ## High Level Requirements:
-High Level Requirements
-|ID	  |  Description	                         | Status
-|HR01 | User can add deatils of candidate     | Implemented
-|HR02	| user can count all votes              | Implemented
-|HR03	| user can check the leading positions  | Implemented
-|HR04	| Candidate can see his/her details     | Implemented
-|HR05 | Data storing                          | Implemented
-|HR06 | User can't see details of voters      | Future
+ID    |           Description                | Status (Implemented/Future)
+ -----|--------------------------------------|----------------------------
+ HR01 | User can add deatils of candidate    | Implemented
+ HR02 | user can count all votes             | Implemented
+ HR03 | Data storing                         | Implemented
+ HR04 | user can check the leading positions | Implemented
+ HR05 | Candidate can see his/her details    | Implemented
+ HR06 | user details can't details of voters | Future
 
 ##  Low level Requirements:
 --- TBD in Tabular Format 
