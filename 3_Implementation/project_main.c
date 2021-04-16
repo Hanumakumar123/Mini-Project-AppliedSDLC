@@ -12,8 +12,8 @@ int votesCount1=0, votesCount2=0, votesCount3=0, votesCount4=0, spoiledtvotes=0;
 void castVote()
 {
 int choice; 
-int age;
-printf("\n Enter the age of the persson");   
+
+   
 printf("\n\n ### Please choose your Candidate ####\n\n");
 printf("\n 1. %s", CANDIDATE1);
 printf("\n 2. %s", CANDIDATE2);
@@ -23,7 +23,7 @@ printf("\n 5. %s", "None of These");
 
 printf("\n\n Input your choice (1 - 4) : ");
 scanf("%d",&choice);
-scanf("%d",&age);
+
 
 switch(choice){
     case 1: votesCount1++; break;
@@ -47,6 +47,8 @@ printf("\n %s - %d ", CANDIDATE1, votesCount4);
 printf("\n %s - %d ", "Spoiled Votes", spoiledtvotes); 
 }
 
+
+
 void getLeadingCandidate(){
     printf("\n\n  #### Leading Candiate ####\n\n");
     if(votesCount1>votesCount2 && votesCount1>votesCount3 && votesCount1 >votesCount4)
@@ -69,17 +71,17 @@ int main()
 int i;
 int choice;
 
+
 do{
-printf("\n enter age of person");
+
 printf("\n\n ###### Welcome to Election/Voting 2019 #####");
-printf("\n\n 1. Cast the Vote");
-printf("\n 2. Find Vote Count");
-printf("\n 3. Find leading Candidate");
+printf("\n\n 2. Cast the Vote");
+printf("\n 3. Find Vote Count");
+printf("\n 4. Find leading Candidate");
 printf("\n 0. Exit");
 
 printf("\n\n Please enter your choice : ");
 scanf("%d", &choice);
-
 switch(choice)
 {
 case 1: castVote();break;
